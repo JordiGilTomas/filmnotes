@@ -1,0 +1,31 @@
+{
+  "name": "filmnotes",
+  "version": "1.0.0",
+  "description": "A movie wep app",
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordiGilTomas/filmnotes.git"
+  },
+  "keywords": [
+    "movies"
+  ],
+  "author": "Jordi Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JordiGilTomas/filmnotes/issues"
+  },
+  "homepage": "https://github.com/JordiGilTomas/filmnotes#readme"
+}
